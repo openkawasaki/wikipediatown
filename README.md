@@ -3,8 +3,7 @@
 
 川崎Wikipediaタウンは、川崎の文化財や観光名所等の情報をウィキペディアに掲載してする取り組みです。
 
-* [Welcome to the world’s first Wikipedia Town]()https://blog.wikimedia.org/2012/05/16/monmouthpedia_day/)
-
+* [Welcome to the world’s first Wikipedia Town](https://blog.wikimedia.org/2012/05/16/monmouthpedia_day/)
 
 ### 関連
 
