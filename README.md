@@ -22,18 +22,6 @@
 * [Welcome to the world’s first Wikipedia Town](https://blog.wikimedia.org/2012/05/16/monmouthpedia_day/)
 * [第4回 OpenGLAM JAPAN シンポジウム 「ウィキペディアタウン・ファシリテーター養成講座](https://www.facebook.com/events/719997324783746/)
 
-#### LocalWiki
-
-LocalWikiは世界中のローカルな知識をオープンにする収集、共有の草の根活動です
-
-* [LocalWiki](https://ja.localwiki.org/)  
-* [Localwiki - 川崎市](https://ja.localwiki.org/kawasaki/)
-
-#### オープンストリートマップ
-オープンストリートマップ(OpenStreetMap (OSM))はコミュニティーベースで作成する、インターネットの地図です
-
-* [オープンストリートマップ（英語：OpenStreetMap、OSM）](https://www.openstreetmap.org/)  
-
 ### ウィキペディア街道「大山道」
 
 [ウィキペディア街道](
@@ -42,11 +30,16 @@ https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%8
 
 ウィキペディア街道「大山道」は、東京の赤坂から神奈川県伊勢原市の大山までの街道をテーマにしたウィキペディア街道のイベントです。
 
-* [第1回 ウィキペディア街道「大山道」](./20150523/wikipedia-town-oyama-01.md)
-
 #### 大山街道とは
 
 大山街道(矢倉沢往還)は、江戸の赤坂御門を起点として、青山、渋谷、三軒茶屋より瀬田を経て、多摩川を二子で渡り、多摩丘陵、相模野の中央部を横切り、足柄峠手前の矢倉沢関所に至る脇街道です
 
 * [大山街道 見どころマップ](http://www.ktr.mlit.go.jp/kawakoku/ooyama_hi/)
 * [大山街道を「ウィキペディア街道」にしませんか？](http://www.slideshare.net/tk01k/ss-46656676)
+
+#### 参考
+
+**スライド**
+* [大山街道を「ウィキペディア街道」にしませんか？](http://www.slideshare.net/tk01k/ss-46656676)
+* [「ウィキペディア街道」プロジェクトのご紹介](http://www.slideshare.net/tk01k/ss-53302866)
+* [ウィキペディア街道「大山道」イベントのご紹介](http://www.slideshare.net/tk01k/ss-47937437)
