@@ -3,6 +3,20 @@
 
 川崎Wikipediaタウンは、川崎の文化財や観光名所等の情報をウィキペディアに掲載する取り組みです。
 
+### イベント情報
+- 第1回 ウィキペディア街道「大山道」- 川崎
+  - [Meetupイベント](http://www.meetup.com/open_kawasaki/events/221965768/)
+  - [Facebookイベント](https://www.facebook.com/events/1381188462211386/)
+- 第2回 ウィキペディア街道「大山道」- 世田谷
+  - [Peatixイベント](http://wikipedia-road-2.peatix.com/)
+- 第3回 ウィキペディア街道「大山道」- 海老名
+  - [Peatixイベント](http://peatix.com/event/114390)
+  - [Facebookイベント](https://www.facebook.com/events/429833253876125/)
+- たまがわ かわらマッピングパーティ ✕ ウィキペディア街道「大山道」- 二子玉川
+  - [Peatixイベント](http://peatix.com/event/121735)
+- ウィキペディア街道もくもく会 - 川崎
+  - [Peatixイベント](http://wikipedia-road-mokumoku.peatix.com/)
+
 ### ウィキペディアタウンとは
 
 * [Welcome to the world’s first Wikipedia Town](https://blog.wikimedia.org/2012/05/16/monmouthpedia_day/)
