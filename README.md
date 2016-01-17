@@ -16,6 +16,8 @@
   - [Peatixイベント](http://peatix.com/event/121735)
 - ウィキペディア街道もくもく会 - 川崎
   - [Peatixイベント](http://wikipedia-road-mokumoku.peatix.com/)
+- ウィキペディア15周年イベント 東京 (Wikipedia 15th birthday TOKYO) - 二子玉川
+  - [Peatixイベント](http://wp15tokyo.peatix.com/)
 
 ### ウィキペディアタウンとは
 
